@@ -1,6 +1,4 @@
 
-# Portfolio
-=======
 # Personal Portfolio Website
 
 This is a personal portfolio website project built to showcase my skills, projects, and experience. The website is designed to provide an overview of my work and background, and it's a platform where I can share my achievements and experiences with others.
