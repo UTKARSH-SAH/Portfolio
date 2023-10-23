@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Portfolio
 =======
 # Personal Portfolio Website
@@ -24,6 +24,5 @@ The project has the following structure:
 - `scripts/`: Contains JavaScript files for adding interactivity.
 - `images/`: Stores image assets used on the website.
 - `README.md`: The file you are currently reading.
->>>>>>> dffea4fc1a5553b6e7da41c032d38e555ae21636
 
 
